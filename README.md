@@ -1,3 +1,5 @@
+Use python first, after that use C++ for the K-Nearest Neighbor algorithm.
+
 Data format is MNIST
 
 downloaded from : https://github.com/cvdfoundation/mnist
